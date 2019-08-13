@@ -53,5 +53,5 @@ Press Ctrl-C to quit.
 [![Crear Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/anionsuarez/bluemix-php-sample)
 
 ## Agradecimientos
-
+LALALA
 Este laboratorio fue adaptado del original (https://github.com/IBMCloudDevOps/bluemix-php-sample) para el IBM Code Day 2019 en Montevideo (https://www.ibm.com/events/uy/es/ibm-code-mvd/montevideo/)
